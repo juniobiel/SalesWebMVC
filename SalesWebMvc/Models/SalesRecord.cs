@@ -1,4 +1,5 @@
 ﻿using System;
+using System.ComponentModel.DataAnnotations;
 using SalesWebMvc.Models.Enums;
 
 namespace SalesWebMvc.Models
